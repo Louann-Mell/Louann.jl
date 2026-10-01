@@ -1,2 +1,6 @@
 using Louann
-somme(3,4)
+
+#sumdes()
+a=sumdes()  #come out lancer (1er de la manche)
+b=sumdes()   #lancer apres la 
+PassLine(a,b)
